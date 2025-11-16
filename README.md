@@ -1,4 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Yassine
+
+Welcome to my personal GitHub repository!
+
+I'm a full-stack engineer and AI enthusiast.  
+Here you'll find my personal projects, experiments, and ideas as I explore web development, machine learning, and automation.
+
+## 🛠️ Tech Stack
+- **Frontend:** React, Next.js, TailwindCSS  
+- **Backend:** Node.js, Express.js, FastAPI, Spring Boot  
+- **AI/ML:** Python, PyTorch, TensorFlow, Hugging Face  
+- **Databases:** MongoDB, PostgreSQL  
+- **Tools:** GitHub Actions, Docker, Vercel  
+
+Feel free to explore!
+
 
 <!--
 **Yassine-Jedidi/Yassine-Jedidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
