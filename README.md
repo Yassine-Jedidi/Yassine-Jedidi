@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Yassine
 
 [![committers.top badge](https://user-badge.committers.top/tunisia/Yassine-Jedidi.svg)](https://user-badge.committers.top/tunisia/Yassine-Jedidi)
+![](https://komarev.com/ghpvc/?username=Yassine-Jedidi)
 
 Welcome to my personal GitHub repository!
 
